@@ -414,8 +414,7 @@ def fint_total_channel():
     result = cur.fetchall()
     conn.close()
     return result
-<<<<<<< HEAD
-=======
+
 def get_msg_by_date(id,date):
     """Retrieve msg from a user by given id and date"""
     conn = connect()
@@ -489,7 +488,7 @@ def import_csv_data(file_name):
                 sender_message = data[i][1]
                 insert_to_messageTable_by_name(sender_name, receiver_name, sender_message, "1936-07-27 00:00:00")
                 insert_to_messageTable_by_name(receiver_name, sender_name, sender_message, "1936-07-27 00:00:00")
->>>>>>> e4ea492e9e0402e97a6d7aad845b836d0d61bab1
+
 
 def import_csv_data(file_name):
     """Read csv file,parse it and put a data into messages table"""
