@@ -1,0 +1,43 @@
+1.buildUserTables():
+- Build users table with field name,contact,suspended_till,suspend(text,txt,timestamp,text)
+2.buildMesageTables():
+- Create messages table with filed sender,receiver,message,date(int,int,text,timestamp)
+3.insert_to_userTable(name,contact,suspended_till,suspended):
+- Insert record to users table
+4.insert_to_messageTable(sender,receiver,message,date):
+- Insert record to messages table
+5.insert_to_messageTable_by_name(sender,receiver,message,date):
+- Insert record to message table by name
+6.get_user_id_by_name(name):
+- Retrieve user id by provided name, return a tuple contains user id
+7.get_user_contact_by_id(id):
+- Retrieve user contact by provided id, return a tuple contains user contact
+8.find_user_by_id(id):
+- Retrieve user name by provide id, return a tuple contains user name
+9.find_total_user():
+- Retrieve total user from users table, return a tuple contains a list of users
+10.find_total_msg():
+- Retrieve total msg from messages table, return a tuple contains a list of messages
+11.find_msg_from_user(id,start_date,end_date):
+- Retrieve message from a user by given id and time frame, return a tuple contains a list of messages
+12.check_if_suspended(id):
+- Verify if a user is suspended from provided id, return a tuple contains a list of information of suspension status and suspended_till
+13.get_msg_by_date(id,date):
+- Retrieve msg from provided id an date(when conversion happened),return a tuple contains a list of messages.
+14.get_msg_between_user_with_keyword(sender,receiver,keyword):
+- Retrieve msg from two provided user id with keyword, return a tuple contains a list of messages.
+15.clear_suspension(id):
+- Change user suspension state to False.
+16.suspend(id,date):
+- Change user suspension state to True
+17.delete_user(id):
+- Delete user by id
+18.update_user_contact(id,contact):
+- Change user contact info by given id and new contact info.
+19.import_csv_data(file_name):
+- Import provided csv file
+20.hard_code_data():
+- Hard code data to db1
+21.delete_all_data():
+- Delete all users table records and messages table records
+

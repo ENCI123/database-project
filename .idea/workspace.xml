@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d83dc6d-91e5-488a-8374-52b19225a47c" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/DB_DIAGRAM.png" beforeDir="false" afterPath="$PROJECT_DIR$/DB_DIAGRAM.png" afterDir="false" />
+>>>>>>> e4ea492e9e0402e97a6d7aad845b836d0d61bab1
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/config/gitlab-credentials.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chat.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7174">
+              <caret line="422" column="51" selection-start-line="422" selection-start-column="51" selection-end-line="422" selection-end-column="51" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/chat.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-663">
+              <caret line="12" column="110" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="110" />
+>>>>>>> e4ea492e9e0402e97a6d7aad845b836d0d61bab1
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DB_DIAGRAM.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/swen344_db_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> e4ea492e9e0402e97a6d7aad845b836d0d61bab1
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/test_postgresql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db3_test_data.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="7" selection-start-line="31" selection-end-line="31" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/whos_on_first.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Python37/Lib/unittest/case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13906">
+              <caret line="831" selection-start-line="831" selection-end-line="831" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/test_chat.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3094">
+              <caret line="185" column="17" selection-start-line="185" selection-start-column="17" selection-end-line="185" selection-end-column="17" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/test_chat.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1615">
+              <caret line="98" column="20" lean-forward="true" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
+>>>>>>> e4ea492e9e0402e97a6d7aad845b836d0d61bab1
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API_Reference.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> e4ea492e9e0402e97a6d7aad845b836d0d61bab1
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>find_user_by</find>
+      <find>like</find>
+      <find>lik</find>
+      <find>delete</find>
+      <find>check_if_use</find>
+      <find>check_if</find>
+      <find>check_if_user_in_comm</find>
+      <find>add_u</find>
+      <find>insert_to</find>
+      <find>print</find>
+      <find>inser</find>
+      <find>get_messge</find>
+      <find>insert_to_MESSAGE</find>
+      <find>update</find>
+      <find>csv</find>
+      <find>add_use</find>
+      <find>insert_to_m</find>
+      <find>shit</find>
+      <find>insert_to_messageTable</find>
+<<<<<<< HEAD
+=======
+      <find>import</find>
+>>>>>>> e4ea492e9e0402e97a6d7aad845b836d0d61bab1
+      <find>check_if_user_is_allow_to_read_private_msg</find>
+      <find>insert</find>
+      <find>add</find>
+      <find>suspend</find>
+<<<<<<< HEAD
+=======
+      <find>suspend(</find>
+>>>>>>> e4ea492e9e0402e97a6d7aad845b836d0d61bab1
+      <find>get_role</find>
+      <find>get_mess</find>
+      <find>nickname</find>
+      <find>get_n</find>
+      <find>get_nick</find>
+<<<<<<< HEAD
+      <find>suspend(</find>
+      <find>import</find>
+=======
+>>>>>>> e4ea492e9e0402e97a6d7aad845b836d0d61bab1
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/tests/test_postgresql.py" />
+        <option value="$PROJECT_DIR$/src/swen344_db_utils.py" />
+        <option value="$PROJECT_DIR$/API_Reference.txt" />
+        <option value="$PROJECT_DIR$/db3_test_data.csv" />
+        <option value="$PROJECT_DIR$/../../Praticum/swen-344-02/exam-1/src/orders.py" />
+        <option value="$PROJECT_DIR$/src/chat.py" />
+        <option value="$PROJECT_DIR$/tests/test_chat.py" />
+      </list>
+    </option>
+  </component>
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="366" />
+    <option name="y" value="-11" />
+    <option name="width" value="984" />
+    <option name="height" value="1032" />
+=======
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="76" />
+    <option name="y" value="-35" />
+    <option name="width" value="1554" />
+    <option name="height" value="1104" />
+>>>>>>> e4ea492e9e0402e97a6d7aad845b836d0d61bab1
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="db-exl7069" type="b2602c69:ProjectViewProjectNode" />
+              <item name="db-exl7069" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="db-exl7069" type="b2602c69:ProjectViewProjectNode" />
+              <item name="db-exl7069" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="db-exl7069" type="b2602c69:ProjectViewProjectNode" />
+              <item name="db-exl7069" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="db-exl7069" type="b2602c69:ProjectViewProjectNode" />
+              <item name="db-exl7069" type="462c0819:PsiDirectoryNode" />
+>>>>>>> e4ea492e9e0402e97a6d7aad845b836d0d61bab1
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="db-exl7069" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="db-exl7069" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SWEN-331/fuzzer" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\linti\OneDrive\Desktop\SWEN-344\db-exl7069\test" />
+      <recent name="C:\Users\linti\OneDrive\Desktop\SWEN-344\db-exl7069\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\linti\OneDrive\Desktop\SWEN-344\db-exl7069" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_chat.TestChat">
+    <configuration name="Unittests for test_chat.TestChat" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="db-exl7069" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_chat.TestChat&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_chat.TestChat.test_change_user_name" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="db-exl7069" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_chat.TestChat.test_change_user_name&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_chat.TestChat.test_for_db2_Curly" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="db-exl7069" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_chat.TestChat.test_for_db2_Curly&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_chat.TestChat.test_for_db3" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="db-exl7069" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_chat.TestChat.test_for_db3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_chat.TestChat.test_for_using_personal_csv" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="db-exl7069" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_chat.TestChat.test_for_using_personal_csv&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_chat.TestChat" />
+        <item itemvalue="Python tests.Unittests for test_chat.TestChat.test_for_db3" />
+        <item itemvalue="Python tests.Unittests for test_chat.TestChat.test_for_using_personal_csv" />
+        <item itemvalue="Python tests.Unittests for test_chat.TestChat.test_change_user_name" />
+        <item itemvalue="Python tests.Unittests for test_chat.TestChat.test_for_db2_Curly" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d83dc6d-91e5-488a-8374-52b19225a47c" name="Default Changelist" comment="" />
+      <created>1598551522957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598551522957</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_chat_TestChat_test_for_db3 - 2020.09.22 at 23h 35m 03s.xml">
+      <configuration name="Unittests for test_chat.TestChat.test_for_db3" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_chat_TestChat_test_for_db3 - 2020.09.22 at 23h 36m 40s.xml">
+      <configuration name="Unittests for test_chat.TestChat.test_for_db3" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_chat_TestChat_test_for_db3 - 2020.09.22 at 23h 37m 50s.xml">
+      <configuration name="Unittests for test_chat.TestChat.test_for_db3" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_chat_TestChat_test_for_db3 - 2020.09.22 at 23h 38m 03s.xml">
+      <configuration name="Unittests for test_chat.TestChat.test_for_db3" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_chat_TestChat_test_for_db3 - 2020.09.22 at 23h 38m 20s.xml">
+      <configuration name="Unittests for test_chat.TestChat.test_for_db3" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_chat_TestChat - 2020.09.22 at 23h 41m 18s.xml">
+      <configuration name="Unittests for test_chat.TestChat" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_chat_TestChat_test_for_db3 - 2020.09.22 at 23h 50m 34s.xml">
+      <configuration name="Unittests for test_chat.TestChat.test_for_db3" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_chat_TestChat_test_for_db3 - 2020.09.22 at 23h 53m 23s.xml">
+      <configuration name="Unittests for test_chat.TestChat.test_for_db3" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_chat_TestChat_test_for_db3 - 2020.09.22 at 23h 53m 55s.xml">
+      <configuration name="Unittests for test_chat.TestChat.test_for_db3" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_chat_TestChat - 2020.09.22 at 23h 56m 57s.xml">
+      <configuration name="Unittests for test_chat.TestChat" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49622166" visible="true" weight="0.20095314" />
+=======
+    <frame x="-7" y="-7" width="1217" height="735" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49622166" visible="true" weight="0.21507198" />
+>>>>>>> e4ea492e9e0402e97a6d7aad845b836d0d61bab1
+      <window_info id="Structure" order="1" sideWeight="0.50377834" side_tool="true" weight="0.21337849" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.73860705" weight="0.25165564" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39900663" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3294702" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.26139295" side_tool="true" weight="0.294702" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49622166" visible="true" weight="0.14817952" />
+      <window_info id="Structure" order="1" sideWeight="0.50377834" side_tool="true" weight="0.21337849" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.73860705" visible="true" weight="0.33774835" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39900663" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3294702" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.26139295" side_tool="true" weight="0.294702" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/whos_on_first.csv" />
+    <entry file="file://$PROJECT_DIR$/API_Reference.txt" />
+    <entry file="file://C:/Python37/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3672">
+          <caret line="220" selection-start-line="220" selection-end-line="220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python37/Lib/site-packages/yaml/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db3_test_data.txt" />
+    <entry file="file://$PROJECT_DIR$/db3_test_data.csv___jb_old___" />
+    <entry file="file://$PROJECT_DIR$/db3_test_data.csv___jb_tmp___" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python37/Lib/unittest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2601">
+          <caret line="158" selection-start-line="158" selection-end-line="158" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/diff_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python37/Lib/site-packages/psycopg2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#2059#2494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Praticum/swen-344-02/exam-1/src/orders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/DB_DIAGRAM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+=======
+>>>>>>> e4ea492e9e0402e97a6d7aad845b836d0d61bab1
+    <entry file="file://$PROJECT_DIR$/src/swen344_db_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/config/db.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/gitlab-credentials.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+=======
+>>>>>>> e4ea492e9e0402e97a6d7aad845b836d0d61bab1
+    <entry file="file://$PROJECT_DIR$/tests/test_postgresql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db3_test_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="7" selection-start-line="31" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whos_on_first.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python37/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13906">
+          <caret line="831" selection-start-line="831" selection-end-line="831" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/tests/test_chat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3094">
+          <caret line="185" column="17" selection-start-line="185" selection-start-column="17" selection-end-line="185" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/API_Reference.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="98" column="20" lean-forward="true" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+>>>>>>> e4ea492e9e0402e97a6d7aad845b836d0d61bab1
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/chat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7174">
+          <caret line="422" column="51" selection-start-line="422" selection-start-column="51" selection-end-line="422" selection-end-column="51" />
+=======
+    <entry file="file://$PROJECT_DIR$/tests/test_chat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663">
+          <caret line="12" column="110" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="110" />
+>>>>>>> e4ea492e9e0402e97a6d7aad845b836d0d61bab1
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/DB_DIAGRAM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+>>>>>>> e4ea492e9e0402e97a6d7aad845b836d0d61bab1
+  </component>
+</project>
